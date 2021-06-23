@@ -1,0 +1,8 @@
+@charset "utf-8";
+* {
+	box-sizing: border-box;
+}
+div, header, section, ul, li, h1, h3, h4, h5, h6, hr {
+	margin: 0;
+	padding: 0;
+}
